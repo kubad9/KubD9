@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kuba
+- 👀 I’m interested in making games and programs.
+- 🌱 I’m currently learning C++ and JavaScript.
